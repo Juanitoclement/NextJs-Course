@@ -32,3 +32,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Learning Stuff
+
+```bash
+Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!
+```
+
+git clone https://github.com/mschwarzmueller/nextjs-course-code.git
+
+BASICS & FOUNDATIONS (Key Features)
+
+1. File based routing
+2. Page pre rendering & data fetching
+3. Combining "Standard React" and NextJs
+4. Api routes & fullstack capabilities
+
+ADVANCED CONCEPTS (Building for production)
+1. Optimization opportunities
+2. Looking Behind the scenes & theory
+3. Deployment & configuration
+4. Authentication
+
+SUMMARIES & Refreshers (Optimizing your time)
+1. ReactJs Refresher
+2. NextJs Summary
